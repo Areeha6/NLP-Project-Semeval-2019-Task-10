@@ -1,0 +1,8 @@
+accuracy: 0.18772563176895307
+penalized_accuracy: 0.02527075812274368
+closed_accuracy: 0.17567567567567569
+closed_penalized_accuracy: 0.010810810810810804
+open_accuracy: 0.17142857142857143
+open_penalized_accuracy: 0.005714285714285694
+geo_accuracy: 0.21296296296296297
+geo_penalized_accuracy: 0.05555555555555555
